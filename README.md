@@ -8,7 +8,6 @@ A new Flutter project...
 
 This project is a starting point for a Flutter application.
 
-
 This is the Union section of App
 
 A few resources to get you started if this is your first Flutter project:
